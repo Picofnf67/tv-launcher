@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мой лаунчер</string>
+    <string name="no_apps">Приложения не найдены</string>
+    <string name="hint">OK — запустить · Удерживайте OK — о приложении · Меню — настройки</string>
+    <string name="cant_launch">Не удалось запустить: %1$s</string>
+    <string name="no_app_info">Сведения о приложении недоступны</string>
+</resources>
